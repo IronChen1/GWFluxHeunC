@@ -87,4 +87,4 @@ Default install path: `~/MATLAB/Apps/GW_Flux_Calculator`
 | **Both** | `"Invalid parameter a"` | Ensure `|a| < 1`. The Kerr black hole condition requires `a` strictly less than 1. |
 
 ---
-**Version:** 1.0 | **MATLAB Runtime:** R2025a | **Support:** your.email@example.com
+**Version:** 1.0 | **MATLAB Runtime:** R2025a | **Support:** ckchen@mail.bnu.edu.cn
