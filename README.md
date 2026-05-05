@@ -3,7 +3,7 @@ gravitational-wave energy flux
 
 # GW Flux Calculator - User Guide
 
-## 🪟 Windows Guide
+##  Windows Guide
 
 ### 1. Install MATLAB Runtime R2025a
 1. Extract `MATLAB_Runtime_R2025a_win64.zip`.
