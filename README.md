@@ -30,6 +30,8 @@ gravitational-wave energy flux
 
 ---
 
+# GW Flux Calculator - User Guide
+
 ## 🐧 Linux Guide
 
 ### 1. Install MATLAB Runtime R2025a
@@ -53,16 +55,16 @@ gravitational-wave energy flux
 chmod +x GW_Flux_Calculator.install
 ./GW_Flux_Calculator.install
 ```
-Default install path: `~/MATLAB/Apps/GW_Flux_Calculator`
+Default install path: `~/GW_Flux_Calculator`
 
 ### 3. Run Application
 1. Navigate to the install directory:
    ```bash
-   cd ~/MATLAB/Apps/GW_Flux_Calculator
+   cd ~/GW_Flux_Calculator/application/
    ```
 2. Run the executable:
    ```bash
-   ./GW_Flux_Calculator
+    ./run_GW_Flux_Calculator.sh /usr/local/MATLAB/MATLAB_Runtime/R2025a
    ```
 3. The terminal will prompt:
    ```text
@@ -76,15 +78,5 @@ Default install path: `~/MATLAB/Apps/GW_Flux_Calculator`
 - **Content:** Same as Windows version.
 
 ---
-
-## 🔧 Troubleshooting
-
-| Platform | Issue | Solution |
-|:---|:---|:---|
-| **Windows** | `"MATLAB Runtime not found"` | Verify R2025a installed correctly. Restart PC. Re-run installer → select **Repair**. |
-| **Linux** | `"libmwmclmcrrt.so: cannot open shared object file"` | Environment variables missing. Run the `export LD_LIBRARY_PATH=...` command from Section 1. |
-| **Linux** | `Permission denied` | Run `chmod +x GW_Flux_Calculator` before execution. |
-| **Both** | `"Invalid parameter a"` | Ensure `|a| < 1`. The Kerr black hole condition requires `a` strictly less than 1. |
-
 ---
 **Version:** 1.0 | **MATLAB Runtime:** R2025a | **Support:** ckchen@mail.bnu.edu.cn
