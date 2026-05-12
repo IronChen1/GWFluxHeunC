@@ -13,8 +13,7 @@
     
     month = "5",
     
-    year = "2026"
-}
+    year = "2026"}
 
 # GW Flux Calculator - User Guide
 
