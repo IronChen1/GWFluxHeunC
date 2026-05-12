@@ -8,7 +8,7 @@
     primaryClass = "gr-qc",
     month = "5",
     year = "2026"}
-```text
+ ```
 
 # GW Flux Calculator - User Guide
 
