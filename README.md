@@ -1,18 +1,12 @@
 # How to cite
-
+```text
 @article{Chen:2026bym,
     author = "Chen, Changkai and Cao, Zhoujian and Jing, Jiliang",
-    
     title = "{Efficient and Stable Computation of Gravitational-Wave Fluxes from Generic Kerr Orbits via a Unified HeunC Framework}",
-    
     eprint = "2605.09250",
-    
     archivePrefix = "arXiv",
-    
     primaryClass = "gr-qc",
-    
     month = "5",
-    
     year = "2026"}
 
 # GW Flux Calculator - User Guide
