@@ -9,6 +9,13 @@
     month = "5",
     year = "2026"}
  ```
+# 📥 Download & Installation Guide
+
+> **⚠️ Important Note for Downloading:**
+> The software package is provided as **split archives** (multi-part zip files).
+> - **Direct Download:** You must download **all** parts (`.z01`, `.z02`, ..., `.zip`) and place them in the **same folder** before extracting.
+> - **BitTorrent:** If you have trouble downloading the files directly, please use the provided `.torrent` file.
+> - **Support:** If you still encounter difficulties, please email me at **ckchen@mail.bnu.edu.cn**.
 
 # GW Flux Calculator - User Guide
 
