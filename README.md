@@ -1,3 +1,6 @@
+# Gravitational-Wave Fluxes from Generic Kerr Orbits via a Unified HeunC Framework
+The code is developed and maintained by Changkai Chen.
+
 # How to cite
 ```text
 @article{Chen:2026bym,
